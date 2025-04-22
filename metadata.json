@@ -1,0 +1,22 @@
+{
+  "name": "Trump Elon Maga",
+  "symbol": "TEM",
+  "description": "The ultimate token for the MAGA movement!",
+  "image": "https://raw.githubusercontent.com/PumpCrypto/X/refs/heads/main/0.png",
+  "external_url": "https://trumpelonmaga.github.io/TEM/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/PumpCrypto/X/refs/heads/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "hYNs9jyTzFo6nzTpBUQeHPUUFnF5u7ALqm3f6W4V6HX",
+        "share": 100
+      }
+    ]
+  }
+}
